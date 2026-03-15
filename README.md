@@ -1,4 +1,4 @@
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=I+am+a+Learner;Mathematics+%26+Computing+Student;AI+%26+Deep+Learning+Enthusiast;C%2B%2B+%26+Python+Programmer)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=50&pause=100&color=2196F3&center=true&vCenter=true&width=700&lines=I+am+a+Learner;Mathematics+%26+Computing+Student;AI+%26+Deep+Learning+Enthusiast;C%2B%2B+%26+Python+Programmer)](https://git.io/typing-svg)
 
 <!--## Hi there 👋-->
 
